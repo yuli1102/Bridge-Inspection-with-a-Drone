@@ -5,8 +5,7 @@ In-task feedback will be proved during the inspection.
 Post-task feedback will be assessed by the collected inspection data. 
 
 # Note  
-The Unity Demo can be downloaded from: 
-The demo can be only operated by keyboard.
+The demo can be only operated by keyboard and only have one view of UAV camera.
 
 Assests adoptted in this Unity game including:  
 (1) Road Architect, free, can be downloaded from: https://github.com/MicroGSD/RoadArchitect  
