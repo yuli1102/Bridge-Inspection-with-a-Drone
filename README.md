@@ -5,7 +5,9 @@ In-task feedback will be proved during the inspection.
 Post-task feedback will be assessed by the collected inspection data. 
 
 # Note  
-The demo can be only operated by keyboard and only have one view of UAV camera.
+There two folder:
+Demo: Here is demo that built from the unity. You can try to do the bridge inspection using this demo The demo can be only operated by keyboard. The game view in this demo only have one view of UAV camera. This demo doesn't include data recording function. 
+Unity: The source codes can be found here. 
 
 Assests adoptted in this Unity game including:  
 (1) Road Architect, free, can be downloaded from: https://github.com/MicroGSD/RoadArchitect  
