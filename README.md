@@ -4,11 +4,19 @@ TASBID is a bridge inspection simulation developped in Unity. The inspection can
 In-task feedback will be proved during the inspection.
 Post-task feedback will be assessed by the collected inspection data. 
 
-# Note  
-There two folder:
-Demo: Here is demo that built from the unity. You can try to do the bridge inspection using this demo The demo can be only operated by keyboard. The game view in this demo only have one view of UAV camera. This demo doesn't include data recording function. 
-Unity: The source codes can be found here. 
+# Demo: 
+A demo can be downloaded from: https://www.dropbox.com/sh/t392znosv7m6wxg/AAAxMrgf87y0kaydaYL5J-qka?dl=0
+This simulation demo is built from the unity. You can try to do the bridge inspection with a drone using the exe file.  
+Note:    
+(1) The demo can be only operated by keyboard.   
+(2) The game view in this demo only have one view of UAV camera.   
+(3) This demo doesn't include data recording function.   
 
+https://user-images.githubusercontent.com/44143351/120089589-f0739c00-c0c9-11eb-9f8f-8b027d9694fd.mp4
+
+
+
+# Note
 Assests adoptted in this Unity game including:  
 (1) Road Architect, free, can be downloaded from: https://github.com/MicroGSD/RoadArchitect  
 (2) traffic simulation, free, can be downloaded from: https://github.com/mchrbn/unity-traffic-simulation  
