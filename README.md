@@ -15,7 +15,6 @@ Note:
 https://user-images.githubusercontent.com/44143351/120089589-f0739c00-c0c9-11eb-9f8f-8b027d9694fd.mp4
 
 
-
 # Note
 Assests adoptted in this Unity game including:  
 (1) Road Architect, free, can be downloaded from: https://github.com/MicroGSD/RoadArchitect  
@@ -24,7 +23,7 @@ Assests adoptted in this Unity game including:
     Related original codes of this drone asset have been hided. Please make sure you buy this asset from Unity before run this inspection.  
     
 # How to use  
-Manual can be found in doc file.
+Manual can be found in doc file of "TASBID Manual".
 
 # Video examples:  
 ## In-task feedback
