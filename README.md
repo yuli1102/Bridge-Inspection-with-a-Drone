@@ -16,8 +16,8 @@ Manual can be found in doc file of "TASBID Manual".
 Assests adoptted in this Unity game including:  
 (1) Road Architect, free, can be downloaded from: https://github.com/MicroGSD/RoadArchitect  
 (2) traffic simulation, free, can be downloaded from: https://github.com/mchrbn/unity-traffic-simulation  
-(3) Unity drone controller asset, can be bought from: https://assetstore.unity.com/packages/tools/physics/drone-controller-full-pc-joystick-mobile-111163 
-    Related original codes of this drone asset have been hided. Please make sure you buy this asset from Unity before run this inspection.  
+(3) Unity drone controller asset, can be purchased from: https://assetstore.unity.com/packages/tools/physics/drone-controller-full-pc-joystick-mobile-111163 
+    Related original codes of this drone asset have been hided. Please make sure you purchase this asset from Unity before run this inspection.  
 
 ### Video examples:  
 #### In-task feedback
