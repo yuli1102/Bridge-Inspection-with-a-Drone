@@ -7,7 +7,10 @@ Post-task feedback will be assessed by the collected inspection data.
 # Package   
 
 ## Unity:  
-The unitypackage can be downloaded from "Release", including the source code.  
+The unitypackage including the Unity files. Download this package and improt in Unity to start this simulation
+    
+### How to use  
+Manual can be found in doc file of "TASBID Manual".
 
 ### Note
 Assests adoptted in this Unity game including:  
@@ -15,9 +18,6 @@ Assests adoptted in this Unity game including:
 (2) traffic simulation, free, can be downloaded from: https://github.com/mchrbn/unity-traffic-simulation  
 (3) Unity drone controller asset, can be bought from: https://assetstore.unity.com/packages/tools/physics/drone-controller-full-pc-joystick-mobile-111163 
     Related original codes of this drone asset have been hided. Please make sure you buy this asset from Unity before run this inspection.  
-    
-### How to use  
-Manual can be found in doc file of "TASBID Manual".
 
 ### Video examples:  
 #### In-task feedback
