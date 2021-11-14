@@ -1,3 +1,11 @@
+# update 2021.11.14
+An updated demo can be downloaded from: https://www.dropbox.com/s/66jp4zafska6od0/Bridge_Inspection_with_a_Drone_1114.zip?dl=0
+New function including:
+(1) Add autonomous mode, press F1, F2, F3, and F4 to start the autonomous mode for task 1,2,3,4. Press F5 to back to hand control mode. Press PadEnter key to flight inversed during autonomous mode. 
+(2) Update the Unity version, change the environment lighting. 
+ 
+
+
 # Bridge-Inspection-with-a-Drone
 TASBID: A Training and Assessment System for Bridge Inspection with a Drone
 TASBID is a bridge inspection simulation developped in Unity. The inspection can be done by keyborad or a hand controller. 
@@ -37,6 +45,8 @@ Note:
 (1) The demo can be only operated by keyboard.   
 (2) The game view in this demo only have one view of UAV camera.   
 (3) This demo doesn't include data recording function.   
+(4) Press w,s,a,d for forward, backward, left sideward and right side ward. Press i,k,j,l for up, down, left rotation and right rotation.
+(5) Press B to turn on/off the light of the UAV.  
 
 https://user-images.githubusercontent.com/44143351/120089589-f0739c00-c0c9-11eb-9f8f-8b027d9694fd.mp4
 
