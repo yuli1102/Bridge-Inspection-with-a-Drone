@@ -2,7 +2,7 @@
 An updated demo can be downloaded from: https://www.dropbox.com/s/7r50wwhexu7dgja/Bridge_Inspection_with_a_Drone_1213.zip?dl=0
 New function including:
 (1) Add visual cue to the camera view. The visual cue idea came from Dr.David Nembhard research group. 
-
+simulation_visual_cue_update_20211213.mp4
 
 # update 2021.11.14
 An updated demo can be downloaded from: https://www.dropbox.com/s/66jp4zafska6od0/Bridge_Inspection_with_a_Drone_1114.zip?dl=0
