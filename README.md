@@ -1,3 +1,17 @@
+If you use this data or sourse code, please cite it as below:
+Y. Li, M. M. Karim and R. Qin, "A Virtual-Reality-Based Training and Assessment System for Bridge Inspectors With an Assistant Drone," in IEEE Transactions on Human-Machine Systems, vol. 52, no. 4, pp. 591-601, Aug. 2022, doi: 10.1109/THMS.2022.3155373.
+BibTeX:
+@ARTICLE{9741777,
+  author={Li, Yu and Karim, Muhammad Monjurul and Qin, Ruwen},
+  journal={IEEE Transactions on Human-Machine Systems}, 
+  title={A Virtual-Reality-Based Training and Assessment System for Bridge Inspectors With an Assistant Drone}, 
+  year={2022},
+  volume={52},
+  number={4},
+  pages={591-601},
+  doi={10.1109/THMS.2022.3155373}}
+  
+
 # update 2021.12.13
 An updated demo can be downloaded from: https://www.dropbox.com/s/7r50wwhexu7dgja/Bridge_Inspection_with_a_Drone_1213.zip?dl=0
 New function including:
