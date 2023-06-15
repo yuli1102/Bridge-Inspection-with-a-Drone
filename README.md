@@ -19,7 +19,9 @@ Y. Li, M. M. Karim and R. Qin, "A Virtual-Reality-Based Training and Assessment 
 An updated demo can be downloaded from:  https://www.dropbox.com/s/geqrekvo6y65vla/Bridge_Inspection_with_a_Drone_01282023.zip?dl=0
 New function including:
 (1) Add audio control function in autonomous mode. Speak "task one", "task two", "task three", "task four" to change to autonomous mode for task 1,2,3,4. Speak "stop" to stop autonomous mode and change back to hand control mode. Speak "continue" to continue to the autonomous mode. Speaker "reverse" to flight inversed during the autonomous mode. 
-(A video will upload later)
+
+https://github.com/yuli1102/Bridge-Inspection-with-a-Drone/assets/44143351/9d928648-d7d9-4a64-a35d-6387b43095cf
+
 
 
 
